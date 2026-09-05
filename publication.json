@@ -1,7 +1,36 @@
 {
   "brand": "The Narrative Engine",
-  "generatedAt": "2026-09-05T14:10:52.704Z",
+  "generatedAt": "2026-09-05T14:24:19.479Z",
   "courses": [
+    {
+      "id": "psychological-engine",
+      "title": "The Psychological Engine of Story",
+      "catalogDescription": "The Psychological Engine of Story is a live writing-craft lecture built around guided explanation, recurring examples, and practical questions for fiction writers.",
+      "subjects": [
+        "Character",
+        "Plot and structure",
+        "Revision"
+      ]
+    },
+    {
+      "id": "wound-lie-fear",
+      "title": "The Wound, the Lie, and the Fear",
+      "catalogDescription": "The Wound, the Lie, and the Fear is a live writing-craft lecture built around guided explanation, recurring examples, and practical questions for fiction writers.",
+      "subjects": [
+        "Character",
+        "Plot and structure"
+      ]
+    },
+    {
+      "id": "want-vs-need",
+      "title": "Want vs. Need: Building the Arc",
+      "catalogDescription": "Want vs. Need: Building the Arc is a live writing-craft lecture built around guided explanation, recurring examples, and practical questions for fiction writers.",
+      "subjects": [
+        "Character",
+        "Plot and structure",
+        "Revision"
+      ]
+    },
     {
       "id": "the-dread-ladder",
       "title": "The Dread Ladder: Escalating Psychological Tension Across a Story",
