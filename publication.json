@@ -1,6 +1,6 @@
 {
   "brand": "The Narrative Engine",
-  "generatedAt": "2026-09-05T14:24:19.479Z",
+  "generatedAt": "2026-09-16T17:38:38.534Z",
   "courses": [
     {
       "id": "psychological-engine",
@@ -40,6 +40,15 @@
         "Tension and suspense",
         "Plot and structure",
         "Character psychology"
+      ]
+    },
+    {
+      "id": "a-60-minute-strategy-and-carrd-workshop-for-sudowrite-authors-sudowrite-authors",
+      "title": "A 60-minute strategy and Carrd workshop for SudoWrite authors. SudoWrite Authors",
+      "catalogDescription": "A 60-minute strategy and Carrd workshop for SudoWrite authors. SudoWrite Authors is a live writing-craft lecture built around guided explanation, recurring examples, and practical questions for fiction writers.",
+      "subjects": [
+        "Character",
+        "Plot and structure"
       ]
     }
   ]
